@@ -1,0 +1,40 @@
+body {
+  background-color: burlywood;
+}
+
+/* Style untuk container card */
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8bbd0;
+  text-align: center;
+  border-radius: 10px;
+  position: relative; /* Menambahkan posisi relatif untuk kontainer */
+}
+
+/* Style untuk judul ucapan */
+h1 {
+  font-size: 36px;
+  color: #d81b60;
+}
+
+/* Style untuk teks ucapan */
+p {
+  font-size: 24px;
+  color: #f06292;
+  margin-bottom: 20px;
+}
+
+/* Style untuk teks doa */
+.doa {
+  font-size: 18px;
+  color: #c2185b;
+  font-style: italic;
+}
+
+/* Style untuk gambar kue ulang tahun */
+.cake-img {
+  width: 200px;
+  margin-bottom: 20px;
+}
